@@ -1,0 +1,12 @@
+{
+  "name": "desafio-tecnico",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/GarconeAna/desafio-tecnico.git",
+  "author": "<Ana Carolina>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "morgan": "^1.10.0"
+  }
+}
