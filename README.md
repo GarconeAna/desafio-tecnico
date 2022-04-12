@@ -9,7 +9,7 @@
 * execute o comando yarn dev
 
 ### Banco de dados usado
-* foi usado o MongoDBAtlas, para conseguir conectar o projeto crie um arquivo **.env** e adicione: DB_URL=mongodb+srv://user:GL5hUKq0CJd2eZjn@work.vnrfl.mongodb.net/work?retryWrites=true&w=majority
+* foi usado o MongoDBAtlas. Para conseguir conectar o projeto crie um arquivo **.env** e adicione: DB_URL=mongodb+srv://user:GL5hUKq0CJd2eZjn@work.vnrfl.mongodb.net/work?retryWrites=true&w=majority
 * sem segurança, apenas para o desafio
 
 ### Observações 
