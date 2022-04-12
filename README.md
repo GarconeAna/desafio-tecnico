@@ -8,6 +8,7 @@
 
 ### Banco de dados usado
 * foi usado o MongoDBAtlas, para conseguir conectar no projeto mude a extenção do arquivo env.js para .env e descomente
+* sem segurança, apenas para o desafio
 
 ### Observações 
 * foi feito todas as fumcionalidades básicas requeridas
