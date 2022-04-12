@@ -29,8 +29,3 @@
 * *modelo age é do tipo Number **>=18***
 * *modelo email é do tipo String*
 
-#### Configuração de usuario
-| Nome | Tipo |
-|----|-----|
-|tema| "dark", "medium" ou "light"|
-|notificações por email| Boleano|
