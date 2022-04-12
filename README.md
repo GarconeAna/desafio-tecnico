@@ -14,7 +14,7 @@
 * foi criado a tabela de usuarios e configurações e adicionado apenas uma referência de uma tabela para outra, adicionando o id gerado da tabela de configurações para a tabela de usuario
 
 ### Guia para as rotas
-| URL BASE | http://localhost:3333 |
+|URL BASE|http://localhost:3333|
 
 #### Criar usuario
 | URL | /register |
