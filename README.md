@@ -49,7 +49,7 @@
 
 * *modelo theme tem três opções e é do tipo String: "Dark", "Medium", "Light"*
 * *modelo notification é do tipo String*
-* *o id gerado aparecerá na tabela do usuario que foi colocado como params na url*
+* *o ID gerado aparecerá na tabela do usuario que foi colocado como params na url*
 
 #### Listar usuarios
 | URL    | /users |
